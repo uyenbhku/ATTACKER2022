@@ -13,5 +13,5 @@ Our approach to the problem was to increase the recall rate in class 1 as high a
 However, accuracy and F-score should always be considered.
 
 ### Future improvements
-
+In the future when we'll gain more knowledge in finance, data science as well as machine learning, maybe we'll come back and have a look at this problem again. 
 
